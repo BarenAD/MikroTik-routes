@@ -450,7 +450,7 @@
 /ip firewall address-list add address=5.200.14.128/25 list=awg-list comment=discord_voice
 /ip firewall address-list add address=66.22.192.0/18 list=awg-list comment=discord_voice
 
-#YouTube
+#YouTube (perview for PC)
 /ip firewall address-list add address=74.125.0.0/16 list=awg-list comment=youtube
 /ip firewall address-list add address=94.140.14.0/24 list=awg-list comment=youtube
 /ip firewall address-list add address=108.177.14.0/23 list=awg-list comment=youtube
