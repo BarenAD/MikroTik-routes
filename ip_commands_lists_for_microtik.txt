@@ -72,6 +72,15 @@
 /ip firewall address-list add address=87.245.232.0/21 list=awg-list comment=WhatsApp
 /ip firewall address-list add address=87.245.240.0/21 list=awg-list comment=WhatsApp
 /ip firewall address-list add address=92.46.37.96/32 list=awg-list comment=WhatsApp
+/ip firewall address-list add address=129.134.0.0/17 list=awg-list comment=WhatsApp
+/ip firewall address-list add address=157.240.0.0/17 list=awg-list comment=WhatsApp
+/ip firewall address-list add address=157.240.192.0/18 list=awg-list comment=WhatsApp
+/ip firewall address-list add address=163.70.128.0/17 list=awg-list comment=WhatsApp
+/ip firewall address-list add address=173.252.64.0/19 list=awg-list comment=WhatsApp
+/ip firewall address-list add address=173.252.96.0/19 list=awg-list comment=WhatsApp
+/ip firewall address-list add address=31.13.24.0/17 list=awg-list comment=WhatsApp
+/ip firewall address-list add address=57.141.0.0/20 list=awg-list comment=WhatsApp
+/ip firewall address-list add address=57.144.0.0/14 list=awg-list comment=WhatsApp
 
 #JetBrains
 /ip firewall address-list add address=3.160.150.35 list=awg-list comment=JetBrains
